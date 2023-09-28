@@ -1,7 +1,5 @@
 # MineSweeper Oyunu
 
-![Mayın Tarlası](minefield.png)
-
 Bu proje, Java ile geliştirilen klasik bir Mayın Tarlası oyununu içerir. Oyuncuların strateji kullanarak mayınları tespit etmeye çalıştığı ve tüm mayınsız hücreleri açarak oyunu kazanmaya çalıştığı bir oyundur.
 
 ## Oyun Kuralları
@@ -51,8 +49,6 @@ Oyuna başlamak için aşağıdaki adımları izleyin:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # MineSweeper Game
-
-![Minefield](minefield.png)
 
 This project includes a classic Minesweeper game developed in Java. It is a game where players try to detect mines using strategy and try to win the game by opening all mine-free cells.
 
