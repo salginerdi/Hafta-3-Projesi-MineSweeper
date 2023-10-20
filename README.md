@@ -94,4 +94,4 @@ Follow the steps below to start the game:
 
 6. If you click on a cell and hit a mine, you lose the game. You can restart the game to try again.
 
-7. When you open all mine-free cells, you win the game.
+7. When you open all mine-free cells, you win the game. 
